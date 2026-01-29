@@ -15,7 +15,6 @@ building quietly.
 
 * BSIT student
 * CSU Cabadbaran Campus
-* Focused on fundamentals
 
 ---
 

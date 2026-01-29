@@ -1,14 +1,29 @@
-# Hi, I'm Windelyn 👋
+# Windelyn Sagaad
 
-✨ **BSIT Student | Student Leader |** ✨
-📍 Caraga State University – Cabadbaran Campus
-
----
-
-## 🌱 About Me
-
-* 🎓 3rd Year **BSIT Student**
+```text
+BSIT student | still learning
+```
 
 ---
 
-> *“Small progress is still progress.”* 💻✨
+## About
+
+* Bachelor of Science in Information Technology (BSIT)
+* Caraga State University – Cabadbaran Campus
+* Focused on learning fundamentals and building academic projects
+
+---
+
+## Work & Practice
+
+* School-related systems and requirements
+* Small practice codes and exercises
+* Continuous learning through hands-on tasks
+
+---
+
+```text
+minimal.
+dark mode.
+learning in progress.
+```

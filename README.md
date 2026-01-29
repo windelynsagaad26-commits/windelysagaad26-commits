@@ -1,29 +1,41 @@
+<div align="center">
+
 # Windelyn Sagaad
 
 ```text
-BSIT student | still learning
+learning the basics.
+building quietly.
 ```
+
+</div>
 
 ---
 
 ## About
 
-* Bachelor of Science in Information Technology (BSIT)
-* Caraga State University – Cabadbaran Campus
-* Focused on learning fundamentals and building academic projects
+* BSIT student
+* CSU Cabadbaran Campus
+* Focused on fundamentals
 
 ---
 
-## Work & Practice
+## Work
 
-* School-related systems and requirements
-* Small practice codes and exercises
-* Continuous learning through hands-on tasks
+* School requirements
+* Small practice codes
 
 ---
 
-```text
-minimal.
-dark mode.
-learning in progress.
-```
+<div align="center">
+
+<a href="https://facebook.com/yourprofile" target="_blank">
+  <img src="https://www.facebook.com/Sagaad.WindelynM/" />
+</a>
+<a href="mailto:windelynsagaad26@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/ Windelyn M. Sagaad windelynsagaad26-commits">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>

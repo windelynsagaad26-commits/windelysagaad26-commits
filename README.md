@@ -35,7 +35,7 @@ building quietly.
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ Windelyn M. Sagaad windelynsagaad26-commits">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" />
+  <img src="[https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white](https://github.com/windelynsagaad26-commits)" />
 </a>
 
 </div>
